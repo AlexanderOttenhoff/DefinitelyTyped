@@ -12,7 +12,7 @@ interface PluginCleanupAttrs {
 }
 
 interface PluginInlineStyles {
-    cleanupAttrs: boolean | object;
+    inlineStyles: boolean | object;
 }
 
 interface PluginRemoveDoctype {
